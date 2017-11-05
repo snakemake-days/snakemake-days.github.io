@@ -8,7 +8,6 @@
 *  Comparison with other similar tools? Galaxy versus Snakemake?
 *  Reproducible research with Snakemake: the Conda/Bioconda/Snakemake
 *  Future developments 
-*  Claire Rioualen
 
 # Helpers
 *  Nina haring, SILS, University of Amsterdam
