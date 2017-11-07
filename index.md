@@ -26,7 +26,7 @@
   * Sharing workflows and rules
   * Other questions
 
-# Scientifc ommittee
+# Scientific committee
 *  Claire Rioualen, Aix-Marseille University.
 *  Johannes Köster, University of Duisburg-Essen
 *  Marc Galland, University of Amsterdam
