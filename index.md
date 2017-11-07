@@ -21,7 +21,7 @@
   * Reproducibility: Snakemake, Bioconda, Github, publication
   * [The Snakemake Wrapper Repository](https://snakemake-wrappers.readthedocs.io)
   * [The Snakemake Workflows Project](https://github.com/snakemake-workflows/docs)
-  * [Snakemake profiles](https://github.com/snakemake-profiles/doc)
+  * [The Snakemake Profiles Project](https://github.com/snakemake-profiles/doc)
   * Performance: parallelization
   * Sharing workflows and rules
   * Other questions
