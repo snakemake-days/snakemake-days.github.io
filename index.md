@@ -37,6 +37,9 @@
 *  Elise van Bree, SILS, University of Amsterdam 
 *  Mateusz Kuzak, Dutch Techcenter for Life Sciences (DTL)
 
+# To subscribe
+[Go to the Eventbrite event page](https://www.eventbrite.fr/e/snakemake-day-2017-tickets-38797327852)
+
 # Participants
 TBA
 
