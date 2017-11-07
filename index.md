@@ -1,6 +1,7 @@
 # Organizers
-*  Marc Galland, University of Amsterdam
-*  Johannes Köster, University of Duisburg-Essen
+*  Marc Galland, University of Amsterdam. 
+*  Johannes Köster, University of Duisburg-Essen. 
+*  Thomas Cokelaer, Pasteur Institute, Paris. 
 
 # Tentative program
 * **9-9.15**: Welcome reception
@@ -23,10 +24,10 @@
   * Other questions
 
 # Scientifc ommittee
-*  Claire Rioualen, Aix-Marseille Université
+*  Claire Rioualen, Aix-Marseille University.
 *  Johannes Köster, University of Duisburg-Essen
 *  Marc Galland, University of Amsterdam
-*  Thomas Cokelaer, Pasteur Institute
+*  Thomas Cokelaer, Pasteur Institute, Paris. 
 
 # Helpers
 *  Nina Haring, SILS, University of Amsterdam
