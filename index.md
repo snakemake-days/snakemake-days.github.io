@@ -40,6 +40,13 @@
 # To subscribe
 [Go to the Eventbrite event page](https://www.eventbrite.fr/e/snakemake-day-2017-tickets-38797327852)
 
+# Where to sleep in the neighbourhood
+* [Youth hostel](https://www.stayokay.com/en/hostel/amsterdam-zeeburg)
+* [Amsterdam Tropen Hotel](http://www.amsterdamtropenhotel.com/en/sleeping)
+* [Hotel Arena](https://www.hotelarena.nl/en/rooms-suites)
+* [Hampshire Hotel - The Manor Amsterdam](https://www.hampshire-hotels.com/en/hampshire-hotel-the-manor-amsterdam) 
+* [A list of hotels in the Plantage district](http://www.plantageamsterdam.nl/en/hotels/)
+
 # Participants
 TBA
 
