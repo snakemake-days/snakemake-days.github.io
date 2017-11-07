@@ -18,9 +18,8 @@
   * 11.45-12: talk 7
 * **12-13**: Lunch break
 * **13-17**: Hackathon: bring your own problem or questions
-  * Reproducibility: Snakemake/bioconda, Github
-  * Performance: parallelisation
-  * Publication with Snakemake
+  * Reproducibility: Snakemake, Bioconda, Github, publication
+  * Performance: parallelization
   * Other questions
 
 # Scientifc ommittee
