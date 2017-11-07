@@ -19,7 +19,11 @@
 * **12-13**: Lunch break
 * **13-17**: Hackathon: bring your own problem or questions
   * Reproducibility: Snakemake, Bioconda, Github, publication
+  * [The Snakemake Wrapper Repository](https://snakemake-wrappers.readthedocs.io)
+  * [The Snakemake Workflows Project](https://github.com/snakemake-workflows/docs)
+  * [Snakemake profiles](https://github.com/snakemake-profiles/doc)
   * Performance: parallelization
+  * Sharing workflows and rules
   * Other questions
 
 # Scientifc ommittee
