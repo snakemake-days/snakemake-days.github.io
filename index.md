@@ -17,7 +17,7 @@
   * 11.30-11.45: talk 6
   * 11.45-12: talk 7
 * **12-13**: Lunch break
-* **13-17**: Hackathon: bring your own problem or questions
+* **13-15**: Hackathon: bring your own problem or questions
   * Reproducibility: Snakemake, Bioconda, Github, publication
   * [The Snakemake Wrapper Repository](https://snakemake-wrappers.readthedocs.io)
   * [The Snakemake Workflows Project](https://github.com/snakemake-workflows/docs)
@@ -25,6 +25,7 @@
   * Performance: parallelization
   * Sharing workflows and rules
   * Other questions
+* **15-17**: Drinks and networking at the CREA Café
 
 # Scientific committee
 *  Claire Rioualen, Aix-Marseille University.
