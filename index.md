@@ -27,6 +27,13 @@
   * Other questions
 * **15-17**: Drinks and networking at the CREA Café
 
+# Abstract submission
+If you wish to present your projects done or currently undergoing with Snakemake, please consider submitting a short abstract (~150 words) to [Marc Galland](mailto:m.galland@uva.nl). 
+Some guidelines:
+*  Introduce and present your research project
+*  Highlight challenges and solutions 
+*  No need to show your actual code. There will be dedicated sub-sessions in the afternoon. 
+
 # Scientific committee
 *  Claire Rioualen, Aix-Marseille University.
 *  Johannes Köster, University of Duisburg-Essen
