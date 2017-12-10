@@ -6,3 +6,8 @@ theme: jekyll-theme-cayman
 url: "https://snakemake-days.github.io/"
 gems:
 - jekyll-mentions
+- jekyll-maps
+
+maps:
+  google:
+    api_key: AIzaSyDLbzC6s_9vOyekY4kszPESeyzYO9AK3_s 
