@@ -4,20 +4,19 @@
 *  Thomas Cokelaer, Pasteur Institute, Paris. 
 
 # Tentative program
-* **9-9.15**: Welcome reception
-* **9.15-9.45**: Keynote: New features, reproducible research with Snakemake (Johannes Köster)
-* **9.45-10.30**: talks : 15min each
-  * 9.45-10.00: talk 1
-  * 10-10.15: talk 2
-  * 10.15-10.30: talk 3
+* **9.30-9.45**: Welcome reception
+* **9.45-10:00**: participant self-intro
+* **10.00-10.30**: Keynote: new features, reproducible research with Snakemake (Johannes Köster)
 * **10.30-10.45**: coffee break
-* **10.45-12**: talks
-  * 10.45-11: talk 4
-  * 11.15-11.30: talk 5
-  * 11.30-11.45: talk 6
-  * 11.45-12: talk 7
+* **10.45-12**: morning session
+  * 10.45-11.00: live-demo (Marc Galland) 
+  * 11.00-11.15: live-demo (Thomas Cokelaer) 
+  * 11.15-11.30: a user perspective (Per Unneberg, SciLifeLab, Sweden)
+  * 11.30-12.00: Questions/Answers session (Johannes Köster, Thomas Cokelaer, Marc Galland)
+
 * **12-13**: Lunch break
 * **13-15**: Hackathon: bring your own problem or questions
+  * Snakemake tutorial
   * Reproducibility: Snakemake, Bioconda, Github, publication
   * [The Snakemake Wrapper Repository](https://snakemake-wrappers.readthedocs.io)
   * [The Snakemake Workflows Project](https://github.com/snakemake-workflows/docs)
@@ -25,25 +24,13 @@
   * Performance: parallelization
   * Sharing workflows and rules
   * Other questions
-* **15-17**: Drinks and networking at the CREA Café
-
-# Abstract submission
-If you wish to present your projects done or currently undergoing with Snakemake, please consider submitting a short abstract (~150 words) to [Marc Galland](mailto:m.galland@uva.nl). 
-Some guidelines:
-*  Introduce and present your research project
-*  Highlight challenges and solutions 
-*  No need to show your actual code. There will be dedicated sub-sessions in the afternoon. 
+* **15-17**: Drinks and networking at the [CREA Café](http://www.crea.uva.nl/cafe_en.php)
 
 # Scientific committee
 *  Claire Rioualen, Aix-Marseille University.
 *  Johannes Köster, University of Duisburg-Essen
 *  Marc Galland, University of Amsterdam
 *  Thomas Cokelaer, Pasteur Institute, Paris. 
-
-# Helpers
-*  Nina Haring, SILS, University of Amsterdam
-*  Elise van Bree, SILS, University of Amsterdam 
-*  Mateusz Kuzak, Dutch Techcenter for Life Sciences (DTL)
 
 # To subscribe
 [Go to the Eventbrite event page](https://www.eventbrite.fr/e/snakemake-day-2017-tickets-38797327852)
@@ -56,5 +43,27 @@ Some guidelines:
 * [A list of hotels in the Plantage district](http://www.plantageamsterdam.nl/en/hotels/)
 
 # Participants
-TBA
-
+*   Arnar Flatberg : arnar.flatberg@ntnu.no
+*   Endre Bakken Stovner : endrebak85@gmail.com
+*   Michelle van der Gragt : M.vanderGragt@uva.nl
+*   Gergana Bounova : g.bounova@nki.nl
+*   Per Unneberg : per.unneberg@scilifelab.se
+*   Maria Bernard : maria.bernard@inra.fr
+*   Tijs Bliek : bliek@uva.nl
+*   Oliver Stolpe : oliver.stolpe@bihealth.de
+*   Simon van Heeringen : simon.vanheeringen@gmail.com
+*   Maryam Ghareghani : mgharegh@mmci.uni-saarland.de
+*   Changsheng Li : c.li3@uva.nl
+*   Kai Ding : k.ding@uva.nl
+*   Rick de Graaf : rick.degraaf@bejo.nl
+*   Claire Rioualen : rioualenclaire@gmail.com
+*   Tjitske Los- de Vries : g.t.los@vumc.nl
+*   Alejandro Abdala : alejandro.abdala@nioz.nl
+*   Bianca Dößelmann : bianca.doesselmann@uni-hohenheim.de
+*   Jose Maturana : jlmaturanag@gmail.com
+*   Mattias de Hollander : m.dehollander@nioo.knaw.nl
+*   Fatemeh Behjati : fbehjati@mmci.uni-saarland.de
+*   Azim Dehghani Amirabad : azim.dehghani@gmail.com
+*   Elise van Bree : E.J.vanBree@uva.nl
+*   Ineke Knot : i.e.knot@uva.nl
+*   Nina Haring : N.L.Haring@uva.nl
