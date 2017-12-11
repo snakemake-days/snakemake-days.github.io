@@ -16,9 +16,9 @@
 * **10.00-10.30**: Keynote: new features, reproducible research with Snakemake (Johannes Köster)
 * **10.30-10.45**: coffee break
 * **10.45-12**: morning session
-  * 10.45-11.00: live-demo (Marc Galland) 
-  * 11.00-11.15: live-demo (Thomas Cokelaer) 
-  * 11.15-11.30: a user perspective (Per Unneberg, SciLifeLab, Sweden)
+  * 10.45-11.00: Live-demo - a basic use of Snakemake pipeline (Marc Galland) 
+  * 11.00-11.15: Live-demo - Sequanix, a GUI for Snakemake (Thomas Cokelaer) 
+  * 11.15-11.30: A user perspective (Per Unneberg, SciLifeLab, Sweden)
   * 11.30-12.00: Questions/Answers session (Johannes Köster, Thomas Cokelaer, Marc Galland)
 
 * **12-13**: Lunch break
