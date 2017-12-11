@@ -10,7 +10,7 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.392111105625!2d4.9119722999999995!3d52.363309699999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c60998ffb76569%3A0x42b058cd42580a78!2sRoeterseiland!5e0!3m2!1sfr!2snl!4v1512934389598" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-# Tentative program
+# Final program
 * **9.30-9.45**: Welcome reception
 * **9.45-10:00**: participant self-intro
 * **10.00-10.30**: Keynote: new features, reproducible research with Snakemake (Johannes Köster)
