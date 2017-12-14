@@ -13,7 +13,7 @@
 # Final program
 * **9.30-9.45**: Welcome reception
 * **9.45-10:00**: participant self-intro
-* **10.00-10.30**: Keynote: new features, reproducible research with Snakemake (Johannes Köster)
+* **10.00-10.30**: Keynote: The road to reproducibility - Snakemake in 2017 (Johannes Köster, [slides](http://slides.com/johanneskoester/the-road-to-reproducibility))
 * **10.30-10.45**: coffee break
 * **10.45-12**: morning session
   * 10.45-11.00: Live-demo - a basic use of a Snakemake pipeline (Marc Galland) 
